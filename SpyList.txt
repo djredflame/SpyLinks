@@ -93,3 +93,42 @@
 127.0.0.1 watson.telemetry.microsoft.com.nsatc.net
 127.0.0.1 wes.df.telemetry.microsoft.com
 127.0.0.1 www.msftncsi.com
+https://pagead2.googleadservices.com
+https://doubleclick.net/
+https://aan.amazon.com
+https://google-analytics.com
+https://mouseflow.com/
+https://a.mouseflow.com
+https://freshmarketer.com/
+https://upload.luckyorange.net
+https://cs.luckyorange.net
+https://settings.luckyorange.net
+https://stats.wp.com
+https://notify.bugsnag.com
+https://sessions.bugsnag.com
+https://browser.sentry-cdn.com
+https://pixel.facebook.com
+https://analytics.facebook.com
+https://analytics.twitter.com
+https://log.pinterest.com
+https://widgets.pinterest.com
+https://trk.pinterest.com
+https://events.redditmedia.com
+https://analytics.yahoo.com
+https://yandexadexchange.net
+https://extmaps-api.yandex.net
+https://adsdk.yandex.ru
+https://data.mistat.xiaomi.com
+https://data.mistat.intl.xiaomi.com
+https://data.mistat.india.xiaomi.com
+https://data.mistat.rus.xiaomi.com
+https://tracking.miui.com
+https://sa.api.intl.miui.com
+https://tracking.miui.com
+https://tracking.intl.miui.com
+https://tracking.rus.miui.com
+https://logservice1.hicloud.com
+https://open.oneplus.net
+https://supportmetrics.apple.com
+https://metrics.icloud.com
+https://metrics.mzstatic.com
