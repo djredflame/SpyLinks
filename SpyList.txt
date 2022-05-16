@@ -133,3 +133,4 @@ data.mistat.india.xiaomi.com
 2a02:26f0:3000:1b9::2a1 metrics.mzstatic.com
 2a02:26f0:3000:290::4106 livetileedge.dsx.mp.microsoft.com
 20.150.95.132 onedriveclucproddm20026.blob.core.windows.net
+18.159.155.53 che.mobiogames.com
